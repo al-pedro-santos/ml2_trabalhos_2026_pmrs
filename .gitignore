@@ -217,3 +217,11 @@ data/spiral/test.csv
 data/spiral/train.csv
 data/spiral/validation.csv
 trabalho_1/data/cifar-10*
+trabalho_1/data/oxford-iiit-pet/
+trabalho_1/plots/
+# --- Adições para ignorar Datasets e Modelos ---
+# Datasets de ML
+data/flickr8k_cache/
+examples/data/
+*.pth
+*.pt
