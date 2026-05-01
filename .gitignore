@@ -223,5 +223,4 @@ trabalho_1/plots/
 # Datasets de ML
 data/flickr8k_cache/
 examples/data/
-*.pth
-*.pt
+models/
